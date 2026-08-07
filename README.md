@@ -45,13 +45,6 @@ class SreekarSidhartha:
 
 ## 💼 Experience
 
-### 🔵 Cybersecurity Intern — Unified Mentor Private Limited
-📅 Mar 2026 – Present · Delhi
-- Performed information gathering, reconnaissance, and network scanning using Nmap and Wireshark
-- Conducted web application security testing on DVWA, identifying OWASP Top 10 vulnerabilities
-- Explored SOC operations, SIEM tools, malware analysis, and wireless security techniques
-- Prepared vulnerability assessment reports with remediation strategies
-
 ### 🟣 Cybersecurity Intern — Texial
 📅 Jul 2025 – Dec 2025 · Pune
 - Conducted network vulnerability assessments using Nmap and Nessus

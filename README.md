@@ -13,7 +13,7 @@
 
 # Hi, I'm Sreekar Sidhartha 👋
 
-### Cybersecurity Professional · RPA Developer (UiPath) · Python Developer
+### Cybersecurity Professional · RPA Developer (UiPath) · Python Developer · Agentic AI Builder
 
 *Securing systems and automating processes — one line of code at a time.*
 
@@ -26,16 +26,18 @@ class SreekarSidhartha:
     name        = "Sreekar Sidhartha"
     location    = "Anantapur, India 🇮🇳"
     education   = "B.Tech CSE — IIIER Chennai (2022–2026) ✓ Completed | CGPA: 6.64"
-    focus       = ["Cybersecurity", "RPA Development", "Security Tooling", "Threat Analysis"]
+    focus       = ["Cybersecurity", "RPA Development", "Security Tooling", "Threat Analysis", "Agentic AI"]
     languages   = ["Python", "Bash", "SQL"]
     rpa_tools   = ["UiPath"]
+    ai_tools    = ["n8n", "Gemini API", "OpenAI API"]
     currently   = "Open to Cybersecurity & RPA Developer roles 🔍"
     open_to     = [
                     "SOC Analyst",
                     "Pentesting / Ethical Hacking",
                     "Network Security",
                     "RPA Developer",
-                    "Automation Engineer"
+                    "Automation Engineer",
+                    "Agentic AI / LLM Automation"
                   ]
 ```
 
@@ -68,6 +70,7 @@ class SreekarSidhartha:
 | 🖥️ Security Analysis / SOC | Log analysis, alert triage, SIEM concepts, incident response |
 | 🌐 Network Security | Reconnaissance, traffic analysis, firewall rules, protocol inspection |
 | 🎣 Phishing & Threat Analysis | Email header parsing, URL heuristics, domain reputation checks |
+| 🧠 Agentic AI / LLM Automation | Low-code autonomous agents, multi-step tool use, workflow orchestration with n8n |
 
 ---
 
@@ -82,6 +85,12 @@ class SreekarSidhartha:
 
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 
+**Agentic AI & LLMs**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 **Security Tools**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -91,11 +100,32 @@ class SreekarSidhartha:
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 
-**Concepts:** SPF · DKIM · DMARC · WHOIS · DNS · OSINT · OWASP Top 10 · SQL Injection · Log Analysis · Vulnerability Assessment · Process Automation
+**Concepts:** SPF · DKIM · DMARC · WHOIS · DNS · OSINT · OWASP Top 10 · SQL Injection · Log Analysis · Vulnerability Assessment · Process Automation · Agentic Workflow Design
 
 ---
 
 ## 📂 Featured Projects
+
+### 🧠 [AI Research Agent — Low-Code (n8n, Agentic AI)](https://github.com/sreekarsidhartha07-ops/AI-Research-Agent-Low-Code-n8n-Agentic-AI-)
+> A low-code autonomous AI Research Agent built in n8n that understands user queries, searches multiple sources, analyzes information, and generates structured research reports delivered via email or Google Docs.
+
+`n8n` · `Agentic AI` · `Gemini/OpenAI` · `Workflow Automation`
+
+---
+
+### 🧠 [AI Job Search & Application Agent — Low-Code (n8n, Agentic AI)](https://github.com/sreekarsidhartha07-ops/AI-Job-Search-Application-Agent-Low-Code-n8n-Agentic-AI-)
+> A low-code Agentic AI workflow that analyzes job descriptions, compares requirements against candidate skills, generates job-match scores, and automates personalized application and follow-up messages via Gmail and Google Sheets.
+
+`n8n` · `Agentic AI` · `Gemini/OpenAI` · `Job Automation`
+
+---
+
+### 🧠 [AI Customer Support Agent — Low-Code (n8n, Agentic AI)](https://github.com/sreekarsidhartha07-ops/AI-Customer-Support-Agent-Low-Code-n8n-Agentic-AI-)
+> A low-code AI Customer Support Agent built in n8n that understands customer queries, retrieves relevant information, generates contextual responses, and routes/escalates complex queries to human support.
+
+`n8n` · `Agentic AI` · `Gemini/OpenAI` · `Customer Support Automation`
+
+---
 
 ### 🎣 [Phishing Attack Analysis & Awareness](https://github.com/sreekarsidhartha07-ops/Phishing-Attack-Analysis-Awareness)
 > A Python toolkit for detecting phishing threats via URL heuristics, email header analysis (SPF/DKIM/DMARC), and domain reputation checks. Includes annotated real-world phishing samples.

@@ -13,7 +13,7 @@
 
 # Hi, I'm Sreekar Sidhartha 👋
 
-### Cybersecurity Professional · RPA Developer (UiPath) · Python Developer · Agentic AI Builder
+### Cybersecurity Professional · RPA Developer (UiPath) · Python Developer · Agentic AI Builder · Data Analyst
 
 *Securing systems and automating processes — one line of code at a time.*
 
@@ -26,18 +26,19 @@ class SreekarSidhartha:
     name        = "Sreekar Sidhartha"
     location    = "Anantapur, India 🇮🇳"
     education   = "B.Tech CSE — IIIER Chennai (2022–2026) ✓ Completed | CGPA: 6.64"
-    focus       = ["Cybersecurity", "RPA Development", "Security Tooling", "Threat Analysis", "Agentic AI"]
+    focus       = ["Cybersecurity", "RPA Development", "Security Tooling", "Threat Analysis", "Agentic AI", "Data Analysis"]
     languages   = ["Python", "Bash", "SQL"]
     rpa_tools   = ["UiPath"]
     ai_tools    = ["n8n", "Gemini API", "OpenAI API"]
-    currently   = "Open to Cybersecurity & RPA Developer roles 🔍"
+    currently   = "Open to RPA Developer roles  & Data Analysis 🔍"
     open_to     = [
                     "SOC Analyst",
                     "Pentesting / Ethical Hacking",
                     "Network Security",
                     "RPA Developer",
                     "Automation Engineer",
-                    "Agentic AI / LLM Automation"
+                    "Agentic AI / LLM Automation",
+                    "Data Analyst"
                   ]
 ```
 
@@ -64,6 +65,7 @@ class SreekarSidhartha:
 | 🌐 Network Security | Reconnaissance, traffic analysis, firewall rules, protocol inspection |
 | 🎣 Phishing & Threat Analysis | Email header parsing, URL heuristics, domain reputation checks |
 | 🧠 Agentic AI / LLM Automation | Low-code autonomous agents, multi-step tool use, workflow orchestration with n8n |
+| 📊 Data Analysis | Data cleaning, KPI analysis, trend analysis, dashboard development |
 
 ---
 
@@ -146,6 +148,7 @@ class SreekarSidhartha:
 - 🏅 **Ethical Hacker** — Cisco Networking Academy
 - 🏅 **Junior Cybersecurity Analyst** — Cisco Networking Academy
 - 🏅 **Cybersecurity Internship Certificate** — Texial
+- 🏅 **Data Analyst** — LearnTube.ai
 
 ---
 
@@ -164,4 +167,3 @@ class SreekarSidhartha:
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sreekarsidhartha07-ops&color=58a6ff&style=flat-square)
-
